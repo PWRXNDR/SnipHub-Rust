@@ -1,2 +1,2 @@
 # SnipHub-Rust
-SnipHub application (Rust)
+SnipHub application (ClipStash base)
